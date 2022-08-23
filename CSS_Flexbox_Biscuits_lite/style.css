@@ -1,0 +1,137 @@
+@import url("https://fonts.googleapis.com/css?family=Merriweather|Inconsolata|Charmonman");
+
+body {
+  
+
+
+  min-height: 100vh;
+  background-image: url(Seamless-Space-Pattern.jpg);
+  margin: 0;
+  font-family: Inconsolata, monospace;
+}
+
+header,
+footer {
+  background-color: #e7476b;
+}
+
+nav {
+  
+  
+
+  background-color: #14264e;
+  border-bottom: 3px solid #e7476b;
+}
+
+nav a {
+  padding: 8px 1em;
+  display: block;
+  font-size: 2em;
+  color: white;
+
+
+}
+
+nav a:hover {
+  background-color: #e7476b;
+}
+
+.two_columns {
+  margin: 2em;
+
+
+
+}
+
+main {
+  
+
+
+
+}
+
+main > * {
+  max-width: 300px;
+  margin: 16px;
+}
+
+main p {
+  text-align: justify;
+}
+
+main article:nth-child(2) p:first-of-type {
+  text-align: left;
+}
+
+article,
+section {
+  background: rgba(255, 255, 255, 0.8);
+  padding: 16pt;
+  margin-bottom: 2em;
+}
+
+h1 {
+  color: white;
+  font-family: Merriweather, serif;
+  padding: 2em;
+  padding-left: calc(1em + 16pt);
+  margin: 0;
+}
+
+.box-citation {
+  background-color: #e7476b;
+  color: white;
+  border-radius: 8pt;
+  padding: 8pt;
+}
+
+blockquote {
+  margin: 8pt;
+  font-family: Charmonman;
+  font-size: 18pt;
+}
+
+blockquote::before {
+  content: "\201C";
+}
+
+blockquote::after {
+  content: "\201D";
+}
+
+dt {
+  color: #e7476b;
+  font-weight: bold;
+}
+
+aside {
+  background-color: #14264e;
+  padding: 8px;
+  margin-top: 16px;
+  margin-left: 2em;
+  color: #e7476b;
+
+
+  
+}
+
+aside ul {
+  padding-left: 16px;
+}
+
+aside ul li {
+  padding: 8px 0;
+}
+
+aside a {
+  color: #e7476b;
+}
+
+footer {
+  padding: 0 16pt;
+  font-size: 10pt;
+}
+
+footer img {
+  vertical-align: bottom;
+}
