@@ -1,8 +1,8 @@
 # Exercice: Biscuits (CSS avancé)
 
-[![](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/bfritscher/cours-html-exercices/tree/master/CSS_Flexbox_Biscuits)
+[![](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/bfritscher/cours-html-exercices/tree/master/CSS_Flexbox_Biscuits_lite)
 
-Ouvrir le projet dans [codesanbox.io](https://codesandbox.io/s/github/bfritscher/cours-html-exercices/tree/master/CSS_Flexbox_Biscuits)
+Ouvrir le projet dans [codesanbox.io](https://codesandbox.io/s/github/bfritscher/cours-html-exercices/tree/master/CSS_Flexbox_Biscuits_lite)
 
 A l'aide des fichiers et informations fournies on vous demande de finir le site pour ressembler au <a href="#resultat">résultat voulut</a>.
 
