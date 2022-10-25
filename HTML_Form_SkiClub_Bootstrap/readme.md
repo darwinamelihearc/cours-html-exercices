@@ -1,6 +1,6 @@
 # Exercice: Ski Club (HTML Formulaire)
 
-[![](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/bfritscher/cours-html-exercices/tree/master/HTML_Form_SkiClub)
+[![](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/bfritscher/cours-html-exercices/tree/master/HTML_Form_SkiClub_bootstrap)
 
 
 Ouvrir le projet dans [codesanbox.io](https://codesandbox.io/s/github/bfritscher/cours-html-exercices/tree/master/HTML_Form_SkiClub_bootstrap)
