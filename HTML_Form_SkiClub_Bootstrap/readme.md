@@ -27,7 +27,7 @@ Faite une copie de votre fichier `index.html` après avoir fini cette partie!
 
 ### Partie Bootstrap
 
-On va ajouter bootstrap et utilise pour mettre en form le formulaire et la page. Ajouter le liens vers le fichier css Bootstrap dans le head.
+On va ajouter bootstrap et l'utiliser pour mettre en form le formulaire et la page. Ajouter le liens vers le fichier css Bootstrap dans le head.
 
 ```html
     <link
