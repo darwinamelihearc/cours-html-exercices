@@ -14,7 +14,7 @@ Une partie du HTML et CSS est donnée, à vous de compléter. Pour vous aider vo
 - Le formulaire doit envoyer sont contenu à l'adresse "https://httpbin.org/post"
 - Les input et label sont dans des paragraphes. Les labels ne sont pas autour des inputs mais utilisent des for pour faire le lien avec ceux-ci.
 - Les noms techniques des éléments du formulaire sont les suivants: "email", "mdp1", "mdp2", "type", "nom", "prenom", "photo", "ski_piste", "ski_rando", "apero", "deja_skiclub", "deja_skiclub", "autre_skiclub", "commentaire"
-- autre_skiclub et commentaire sont les deux seules éléments du formulaire sans légende
+- autre_skiclub et commentaire sont les deux seuls éléments du formulaire sans légende
 - Les ids sont en général les mêmes que les noms techniques. Pour deja_skiclub utiliser `deja_skiclub_non` et `deja_skiclub_oui`
 
 Le résultat final doit ressembler à:
