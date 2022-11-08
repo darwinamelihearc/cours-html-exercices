@@ -1,4 +1,4 @@
-# Exercice: Ski Club (HTML Formulaire)
+# Exercice: DOM JS Donations
 
 [![](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/bfritscher/cours-html-exercices/tree/master/DOM_JS_DONATIONS)
 
