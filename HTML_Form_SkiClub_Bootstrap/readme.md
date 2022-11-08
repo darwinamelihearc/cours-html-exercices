@@ -1,4 +1,4 @@
-# Exercice: Ski Club (HTML Formulaire)
+# Exercice: Ski Club Bootstrap (HTML Formulaire)
 
 [![](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/bfritscher/cours-html-exercices/tree/master/HTML_Form_SkiClub_Bootstrap)
 
