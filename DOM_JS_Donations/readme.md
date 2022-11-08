@@ -1,9 +1,9 @@
 # Exercice: DOM JS Donations
 
-[![](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/bfritscher/cours-html-exercices/tree/master/DOM_JS_DONATIONS)
+[![](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/bfritscher/cours-html-exercices/tree/master/DOM_JS_Donations)
 
 
-Ouvrir le projet dans [codesanbox.io](https://codesandbox.io/s/github/bfritscher/cours-html-exercices/tree/master/DOM_JS_DONATIONS)
+Ouvrir le projet dans [codesanbox.io](https://codesandbox.io/s/github/bfritscher/cours-html-exercices/tree/master/DOM_JS_Donations)
 
 A l'aide des fichiers et informations fournies on vous demande de finir le site pour ressembler au résultat voulut.
 
