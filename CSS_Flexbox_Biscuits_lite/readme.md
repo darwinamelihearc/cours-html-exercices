@@ -15,9 +15,9 @@ Une partie du HTML et CSS sont données, à vous de compléter le CSS avec des i
 
 - On utilise le div.two_columns pour partager la page en deux colonnes de ratio 4/1. Il occupe lui-même tout l'espace disponible de la hauteur de la page qui n'est pas utilisé par l'entête ou le pied de page.
 
-- Les elements à l'inétrieur de main occupent la place horizontalement s'il y a de la place, et sont centrés.
+- Les elements à l'intérieur de main occupent la place horizontalement s'il y a de la place, et sont centrés.
 
-- L'aparté à une bordure de 3px et des bord arrondie de 8px.
+- L'aparté a une bordure de 3px et des bord arrondie de 8px.
 
 <h2 id="croquis">Croquis</h2>
 
