@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Cantata+One&family=Charmonman:wght@400;700&display=swap");
+
+body {
+  background-color: black;
+}
+
+h1,
+h2 {
+  color: orangered;
+}
+
+h1 {
+  font-size: 32pt;
+  font-family: "Cantata One", serif;
+  text-align: center;
+}
+
+h2 {
+  font-size: 20pt;
+  line-height: 18pt;
+  margin-top: 2em;
+  margin-bottom: 1em;
+  border-bottom: 1px solid orangered;
+}
+
+h2,
+h3,
+li,
+p {
+  font-family: "Charmonman", cursive;
+}
+
+ul {
+  list-style-type: none;
+}
+
+p,
+li,
+h3 {
+  color: darkorange;
+}
+
+h3 {
+  line-height: 16pt;
+}
+
+.preparation {
+  font-family: "Cantata One", serif;
+  font-size: 14pt;
+  color: orangered;
+  background-color: white;
+  padding: 1em;
+}
+
+.qte {
+  color: white;
+  font-weight: bold;
+}
+
+#source {
+  text-align: right;
+  margin-top: 2em;
+}
+
+a {
+  text-decoration-line: underline;
+  color: orangered;
+}
