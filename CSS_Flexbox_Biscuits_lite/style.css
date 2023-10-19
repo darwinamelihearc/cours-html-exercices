@@ -1,9 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Merriweather|Inconsolata|Charmonman");
 
 body {
-  
-
-
   min-height: 100vh;
   background-image: url(Seamless-Space-Pattern.jpg);
   margin: 0;
@@ -16,8 +13,8 @@ footer {
 }
 
 nav {
-  
-  
+  display: flex;
+  justify-content: space-around;
 
   background-color: #14264e;
   border-bottom: 3px solid #e7476b;
@@ -28,8 +25,8 @@ nav a {
   display: block;
   font-size: 2em;
   color: white;
-
-
+  text-transform: uppercase;
+  text-decoration: none;
 }
 
 nav a:hover {
@@ -38,16 +35,15 @@ nav a:hover {
 
 .two_columns {
   margin: 2em;
-
-
-
+  display: flex;
 }
 
 main {
-  
-
-
-
+  flex: 4;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: flex-start;
 }
 
 main > * {
@@ -110,9 +106,9 @@ aside {
   margin-top: 16px;
   margin-left: 2em;
   color: #e7476b;
-
-
-  
+  flex: 1;
+  border: 3px solid;
+  border-radius: 8px;
 }
 
 aside ul {
@@ -130,6 +126,7 @@ aside a {
 footer {
   padding: 0 16pt;
   font-size: 10pt;
+  display: flex;
 }
 
 footer img {
